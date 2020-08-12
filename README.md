@@ -1,8 +1,11 @@
 # AddFormula2DOCX
 Add Any Formula to DOCX (LaTex/MathML)
+
 向docx添加任意类型的公式（包括LaTeX和MathML）
 ## Installation
 just copy the file "addFormula2Word.py", run
+
+只需下载上面的文件即可
 ## Usage
 Please download the file and read the document
 ```python
@@ -20,4 +23,4 @@ addEq2Word(transform, mathml_string, "mathml", doc.add_paragraph(), "non-in-line
 pip install latex2mathml
 ```
 ## License
-[MIT License](License)
+[MIT License](LICENSE)
