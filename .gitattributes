@@ -1,1 +1,3 @@
 *.xsl linguist-language=python
+*.XSL linguist-language=python
+*.XSLX linguist-language=python
