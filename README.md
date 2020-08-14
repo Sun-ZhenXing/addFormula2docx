@@ -23,5 +23,9 @@ addEq2Word(transform, mathml_string, "mathml", doc.add_paragraph(), "non-in-line
 ```
 pip install latex2mathml
 ```
+## Reference 参考
+[docx](https://github.com/python-openxml/python-docx/issues/320)
+
+Microsoft Office（MathML2OMML.XSL）
 ## License 许可证
 [MIT License](LICENSE)
