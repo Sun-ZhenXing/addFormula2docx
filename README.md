@@ -3,7 +3,7 @@ Add Any Formula to DOCX (LaTex/MathML/OMML)
 
 向docx添加任意类型的公式（包括LaTeX、MathML或者OMML）
 
-## Installation 安装
+### Installation 安装
 Clone the repository and import it when needed
 
 只需克隆这个仓库即可，然后直接导入模块
